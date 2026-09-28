@@ -3,11 +3,11 @@
 
 ## 文档
 
-- [系统架构](docs/architecture.md) — 数据层 / 边缘层 / 应用层闭环
-- [AiDBox 智能视觉分析盒](docs/aiDBox.md)
-- [AiDCam 边缘 AI 智能相机](docs/aiDCam.md)
-- [AiDStudio 数据集管理平台](docs/aiDStudio.md)
-- [资源链接汇总](links.md)
+- [系统架构](aidomain-docs/docs/architecture.md) — 数据层 / 边缘层 / 应用层闭环
+- [AiDBox 智能视觉分析盒](aidomain-docs/docs/aiDBox.md)
+- [AiDCam 边缘 AI 智能相机](aidomain-docs/docs/aiDCam.md)
+- [AiDStudio 数据集管理平台](aidomain-docs/docs/aiDStudio.md)
+- [资源链接汇总](aidomain-docs/links.md)
 
 ## 快速导航
 
